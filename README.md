@@ -1,8 +1,8 @@
-#🚀 Desafio: Chat em Tempo Real com Flask e Flask-SocketIO
+# 🚀 Desafio: Chat em Tempo Real com Flask e Flask-SocketIO
 
 Neste desafio, vamos desenvolver um projeto utilizando Flask e Flask-SocketIO para criar um chat em tempo real de forma simplificada.
 
-#📌 Antes de iniciar o projeto
+# 📌 Antes de iniciar o projeto
 
 Para começar, siga os passos abaixo:
 
@@ -16,7 +16,7 @@ Baixar index.html
 
 https://github.com/rocketseat-education/python-socket-challenge
 
-#⚙️ Regras da aplicação
+# ⚙️ Regras da aplicação
 
 Criar uma rota para renderizar o arquivo index.html
 
